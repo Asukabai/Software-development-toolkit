@@ -1,34 +1,43 @@
-# Software-development-toolkit
-软件开发工具包
+# Software Development Toolkit
 
-重装系统
-https://www.wepe.com.cn/
+## 系统与环境
 
-一元机场（梯子）
-https://github.com/yiyuan-jichang/dizhi
+### 重装系统
+[Windows PE](https://www.wepe.com.cn/)
 
-Java 环境 JDK
+### 科学上网
+[一元机场（梯子）](https://github.com/yiyuan-jichang/dizhi)
 
-Maven 版本
-MySql 版本
-数据库设计：
-https://open.yesapi.cn/list.html
+### 开发环境
+- Java 环境 JDK
+- Maven 版本
+- MySql 版本
 
-编辑器破解工具网站 ：https://www.ajihuo.com/
-<img width="880" height="409" alt="image" src="https://github.com/user-attachments/assets/da91b0e0-0b28-49e0-8aaa-c147bc507ab0" />
+### 数据库设计
+[数据库设计参考](https://open.yesapi.cn/list.html)
 
-图标素材
-https://www.iconfont.cn/
+## 开发工具
 
-摸鱼/工具/壁纸
-https://yinghezhinan.com/
-https://toolwa.com/ （工具）
-https://game.ur1.fun/ 
-https://alphacoders.com/（壁纸）
+### 编辑器破解工具
+[编辑器破解工具网站](https://www.ajihuo.com/)
 
-截图 snipaste软件
-https://zh.snipaste.com/
-https://docs.snipaste.com/zh-cn/advanced-tips
-<img width="1212" height="831" alt="image" src="https://github.com/user-attachments/assets/e3b83dd8-583b-4284-84cf-f5cd0d0e68f9" />
+![编辑器破解工具界面](https://github.com/user-attachments/assets/da91b0e0-0b28-49e0-8aaa-c147bc507ab0)
 
+### 截图工具 Snipaste
+- [官网](https://zh.snipaste.com/)
+- [高级技巧文档](https://docs.snipaste.com/zh-cn/advanced-tips)
 
+![Snipaste 使用界面](https://github.com/user-attachments/assets/e3b83dd8-583b-4284-84cf-f5cd0d0e68f9)
+
+## 设计资源
+
+### 图标素材
+[IconFont 阿里巴巴矢量图标库](https://www.iconfont.cn/)
+
+## 其他资源
+
+### 摸鱼/工具/壁纸网站
+- [银河指南](https://yinghezhinan.com/)
+- [ToolWA 工具网站](https://toolwa.com/)
+- [在线游戏](https://game.ur1.fun/)
+- [AlphaCoders 壁纸](https://alphacoders.com/)
